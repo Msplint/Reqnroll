@@ -2,7 +2,7 @@
 
 ## Supported operating systems
 
-SpecSync is supported on all common operating systems that support .NET, including
+Reqnroll is supported on all common operating systems that support .NET, including
 
 * Windows
 * Linux 
